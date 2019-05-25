@@ -1,7 +1,7 @@
 <font color="red"> Welcome to the website of the ICPC 2020 Conference. We are working to fill the website with all related information.
              Please check back soon!</font>
 <br>
- #ICPC 2020 - Call for Papers 28th International Conference on Program Comprehension
+ # ICPC 2020 - Call for Papers 28th International Conference on Program Comprehension
 <br>
 <br>
  Program comprehension is a vital software development and maintenance activity.
